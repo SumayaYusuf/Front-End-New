@@ -1,0 +1,31 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+  
+}
+
+.bg-image {
+  background-image: url('C:\Users\sumay\landing-page-react-tailwind-main\landing-page-react-tailwind-main\src\Images\Black Metal Simple Landing Page For Web Desktop Mockup (1).jpg'); /* Correct path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+}
+
+#my_bg{
+  background-image: url('\C:\Users\sumay\landing-page-react-tailwind-main\landing-page-react-tailwind-main\src\Images\Black Metal Simple Landing Page For Web Desktop Mockup (1).jpg'); /* Correct path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
